@@ -131,4 +131,4 @@ dist
 
 
 # Ignore MongoDB data files
-data/db/
+data/

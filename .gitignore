@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 
-# database
-data/
+# Ignore MongoDB data files
+data/db/
